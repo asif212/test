@@ -1,0 +1,8 @@
+dwdc
+dc
+wdc
+dc
+sdc
+sd
+csdc
+sdc
